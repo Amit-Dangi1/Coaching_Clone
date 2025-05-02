@@ -1,0 +1,27 @@
+.column2-back{
+    background-image: url("https://t4.ftcdn.net/jpg/04/87/77/31/240_F_487773107_3Ofdhf3Pu0KRQOLYYeR9bvurcDKshD7V.jpg");
+    height: auto;
+    background-size: cover; 
+    background-attachment:fixed ;
+    padding: 50px 0px 50px 0px;
+
+}
+.allhome-btn{
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 8px 15px 8px 15px;
+    border: 0px;
+    margin-left: 20px;
+    font-weight: 700;
+    color: darkblue;
+    margin-top: 20px;
+
+
+
+}
+.allhome-btn:hover{
+    box-shadow: 2px 2px 20px 2px gray;
+    transform: translate(10px);
+    transition-duration: 1s;
+    color: blue;
+}

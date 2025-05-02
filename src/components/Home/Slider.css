@@ -1,0 +1,48 @@
+.Home-backimg1{
+    background-image: url("https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg?ga=GA1.1.286932510.1704466478&semt=ais_hybrid");
+    min-height: 470px;
+    background-size: cover;
+
+}
+.Home-backimg2{
+    background-image: url("https://img.freepik.com/free-vector/blue-3d-particles-background-design_1017-15410.jpg?ga=GA1.1.286932510.1704466478&semt=ais_hybrid");
+    min-height: 470px;
+    background-size: cover;
+
+}.Home-backimg3{
+    background-image: url("https://image.shutterstock.com/image-photo/communication-technology-internet-business-global-260nw-1669361278.jpg");
+    min-height: 470px;
+    background-size: cover;
+
+}.Home-backimg4{
+    background-image: url("https://img.freepik.com/free-vector/futuristic-tech-digital-circuit-line-background-web-innovation_1017-53927.jpg?ga=GA1.1.286932510.1704466478&semt=ais_hybrid");
+    min-height: 470px;
+    background-position: center;
+    background-size: cover;
+
+}
+.Home-backimg5{
+    background-image: url("https://t3.ftcdn.net/jpg/03/78/61/60/240_F_378616075_b1JHnMFKTbAmC8zIEFdh7z3oMwuXdG15.jpg");
+    min-height: 470px;
+    background-size: cover;
+
+}.Home-backimg6{
+    background-image: url("https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg?ga=GA1.1.286932510.1704466478&semt=ais_hybrid");
+    min-height: 470px;
+    background-size: cover;
+
+}
+.slider-btn1{
+    background-color: rgba(40, 196, 253, 0.777);
+    padding: 8px 5px 8px 5px;
+   margin-bottom: 20px;
+    border-radius: 10px;
+    border: 0px;
+    color: white;
+    
+}
+.slider-btn1:hover{
+    background-color: rgba(4, 4, 4, 0.944);
+    
+}
+ 

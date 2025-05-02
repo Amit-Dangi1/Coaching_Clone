@@ -1,0 +1,12 @@
+.about1-back-img{
+    background-image: url("https://image.shutterstock.com/image-photo/illuminated-keyboard-labeled-key-contact-260nw-2444187929.jpg");
+ 
+    background-size: contain;
+    background-position: center;
+    background-attachment:fixed ;
+
+}
+.growth{
+    background-color: rgba(0, 0, 0, 0.449);
+    height: auto;
+}

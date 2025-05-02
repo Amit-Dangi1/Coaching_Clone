@@ -1,0 +1,19 @@
+.nav-backcolor{
+    background-image: linear-gradient(to left,#2CB5E9,#212060);
+}
+.nav-hover:hover{
+    background-color: darkblue;
+    border-radius: 5px;
+
+}
+.nav-img{
+    height: 60px;
+}
+.nav-btn1{
+    background-color: rgba(19, 19, 112, 0.589);
+    border: 0px;
+    padding: 8px 15px 8px 15px;
+    color: whitesmoke;
+    border-radius: 10px;
+
+}

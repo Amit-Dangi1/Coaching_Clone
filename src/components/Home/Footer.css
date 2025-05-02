@@ -1,0 +1,24 @@
+.footer-back-color{
+    background-color: #3D4452;
+    height: auto;
+}
+.footer-back-color:hover{
+    opacity: 2;
+}
+.footer-word-gap{
+    line-height: 30px;
+    font-family:  serif;
+}
+.logo1:hover{
+    opacity: 0.8;
+}
+.footer-media{
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 8px;
+}
+.footer-media:hover{
+    transform: scale(1.3)
+}

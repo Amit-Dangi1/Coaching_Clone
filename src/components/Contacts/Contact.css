@@ -1,0 +1,20 @@
+.input1{
+    border: 0px;
+    border-bottom: 3px solid white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: transparent;
+}
+.contact-back-img{
+    background-image: url("https://image.shutterstock.com/image-photo/portrait-enthusiastic-hispanic-young-woman-260nw-2242410029.jpg");
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+.contact-back-color{
+    background-color: rgba(0, 0, 0, 0.522);
+    height: auto;
+}
+.contact-icon{
+    height: 30px;
+}

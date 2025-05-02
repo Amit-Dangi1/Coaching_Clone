@@ -1,0 +1,23 @@
+.card-round{
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.222);
+ }
+.card-round:hover{
+    transform: scale(0.95);
+    transform: skewX(5deg);
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.222);
+    
+  
+
+}
+.card-font{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.card-img1{
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
